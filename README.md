@@ -107,3 +107,4 @@
 ✔️ არ არსებობს დუბლირებული ID-ები
 
 ✔️ README.md ფაილში დამატებულია ნამუშევრის სქრინშოთი
+![Design Preview](./homework_pseudo-classes_Gocha-Pinturia/img/preview.png)
